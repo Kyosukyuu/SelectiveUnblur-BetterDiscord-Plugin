@@ -4,6 +4,8 @@
  * @authorId 196430252161892352
  * @version 0.0.1
  * @description Unblur certain channels of your choosing
+ * @source https://github.com/Kyosukyuu/SelectiveUnblur-BetterDiscord-Plugin
+ * @updateUrl https://raw.githubusercontent.com/Kyosukyuu/SelectiveUnblur-BetterDiscord-Plugin/main/SelectiveUnblur.plugin.js
  */
 
 // Huge thanks to whoever made MessageLoggerV2, as I learned and based off my code from it
