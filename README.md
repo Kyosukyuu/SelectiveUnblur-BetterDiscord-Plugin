@@ -2,7 +2,7 @@
 
 A BetterDiscord plugin that unblurs certain channels of your choosing. This is intended to unblur images, videos, and also unhide spoiler text.
 
-**This plugin requires Zere's Plugin Library!**
+**This plugin requires Zere's Plugin Library AND the XenoLib library**
 
 _Credit to whoever made MessageLoggerV2 as I based my code (and understanding of BetterDiscord) off of it_
 
