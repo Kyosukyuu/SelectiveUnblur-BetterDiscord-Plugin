@@ -2,7 +2,7 @@
  * @name SelectiveUnblur
  * @author Kyosukyuu
  * @authorId 196430252161892352
- * @version 0.0.1
+ * @version 0.0.2
  * @description Unblur certain channels of your choosing
  * @source https://github.com/Kyosukyuu/SelectiveUnblur-BetterDiscord-Plugin
  * @updateUrl https://raw.githubusercontent.com/Kyosukyuu/SelectiveUnblur-BetterDiscord-Plugin/main/SelectiveUnblur.plugin.js
@@ -128,6 +128,10 @@ module.exports = (() => {
                     }
                     .spoilerText-27bIiA.hidden-3B-Rum .inlineContent-2YnoDy {
                       opacity: 1;
+                    }
+                    .theme-dark .spoilerText-27bIiA.hidden-3B-Rum:hover {
+                      background-color: transparent;
+                      text-decoration: underline;
                     }
                     `
                   );
